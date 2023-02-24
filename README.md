@@ -18,6 +18,16 @@ About Project:
     <td valign="top"><img src="pizzas-front.png" alt="Pizzas List" /></td>
     <td valign="top"><img src="slicemasters-front.png" alt="Slicemasters List"/></td>
     <td valign="top"><img src="order-front.png" alt="Order Ahead"/></td>
-    </tr>
+  </tr>
+  <tr>
+    <td valign="top"><img src="sanityhome.png" alt="Sanity Home" /></td>
+    <td valign="top"><img src="ethereal.png" alt="Ethereal"/></td>
+    <td valign="top"><img src="graphql.png" alt="Graphql"/></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="slicemasters.png" alt="Slicemasters" /></td>
+    <td valign="top"><img src="toppings.png" alt="Toppings"/></td>
+    <td valign="top"><img src="pizzas.png" alt="Pizzas"/></td>
+   </tr>
 </table>
 <table>
